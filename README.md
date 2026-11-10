@@ -110,7 +110,7 @@ Scores are near-zero for the first ~50–80 games while the agent explores rando
 
 ## 👤 Author
 
-**Mirza Yasir Abdullah Baig**
+**Faza E Babar**
 *AI Engineer*
 
 Built as a hands-on exploration of reinforcement learning — how an agent can learn purely from reward and consequence, with no explicit rules ever coded in.
